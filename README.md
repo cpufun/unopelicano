@@ -1,5 +1,5 @@
 # Uno Pelicano
-DIY FPGA Development Board similar to UnoXT and ZXDOS for retro computer/console simulation.
+DIY FPGA Development Board similar to UnoXT and ZXDOS for retro computer/console simulation. Based on ZX-UNO project by Superfo, Mcleod, Quest, A.Villena and Hark0.
 
 Spartan 6 SLX25 (BGA256 chip, up 25K cells), SRAM IS61WV2048BLL-10TLI (TSOP44) - 2pcs.(4MB), SDRAM 32MB W9825G6KH-5I, Flash 32MB - MX25L25645 - 2pcs.,RTC - DS1307.
 
